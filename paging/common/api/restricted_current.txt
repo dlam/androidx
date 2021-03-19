@@ -5,7 +5,7 @@ package androidx.paging {
     method @CheckResult public static <T> kotlinx.coroutines.flow.Flow<androidx.paging.PagingData<T>> cachedIn(kotlinx.coroutines.flow.Flow<androidx.paging.PagingData<T>>, kotlinx.coroutines.CoroutineScope scope);
   }
 
-  public final class CancelableChannelFlowKt {
+  public final class CancelableChannelFlowKtt {
   }
 
   public final class CombinedLoadStates {
